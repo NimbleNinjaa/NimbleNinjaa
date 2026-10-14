@@ -1,10 +1,9 @@
 ### Hi there You can call me Hamid 👋
-## I'm a Student, UI/UX Designer and Developer !
+## I'm a  Developer !
 - 🔭 I’m currently working on my new project.
-- 👨‍🏫 I’m currently learning SvelteKit. 
 - 👯 I'm looking to collaborate on a new adventure. 
 - 🐛 I am always trying to find bugs. 
-- 😄 Fun fact:I am great Designer
+- 😄 Fun fact:I am great Developer 
 ## Languages and Frameworks that I like working with 
 ### 🌐 Languages
 
